@@ -29,7 +29,7 @@ export const about = (): String => {
 export const contact = ():String => {
     return `\nemail - ${information.email}` +
         `\ngithub - ${information.github}` +
-        `\npo - ${information.portfolio}` +
+        `\nportfolio - ${information.portfolio}` +
         `\ninstagram - ${information.instagram}` +
         `\ntwitter - ${information.twitter}` + 
         `\nlinkedin - ${information.linkedin}` 
